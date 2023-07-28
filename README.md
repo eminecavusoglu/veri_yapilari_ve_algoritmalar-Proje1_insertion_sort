@@ -1,1 +1,1 @@
-# veri_yapilari_ve_algoritmalar-Proje1_insertion_sort
+# veri_yapilari_ve_algoritmalar-Proje1
